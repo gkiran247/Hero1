@@ -1,0 +1,32 @@
+2019-01-03 18:38:45,024 WARN a.u.w.BrowserManager isNetAvailable Network not available. Forcing the use of cache
+2019-01-03 18:38:45,024 TRACE a.u.w.BrowserManager forceCache Checking if chromedriver exists in cache D:\automationBed_Google\src\test\resources\drivers\
+2019-01-03 18:38:45,056 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\IEDriverServer.exe
+2019-01-03 18:38:45,056 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\geckodriver.exe
+2019-01-03 18:38:45,056 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:38:45,056 INFO a.u.w.BrowserManager forceCache Found chromedriver in cache: D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe 
+2019-01-03 18:38:45,056 DEBUG a.u.w.BrowserManager manage Driver for [chromedriver] 2.43 found in cache D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:38:45,056 INFO a.u.w.BrowserManager exportDriver Exporting webdriver.chrome.driver as D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:39:06,151 WARN a.u.w.BrowserManager isNetAvailable Network not available. Forcing the use of cache
+2019-01-03 18:39:06,151 TRACE a.u.w.BrowserManager forceCache Checking if chromedriver exists in cache D:\automationBed_Google\src\test\resources\drivers\
+2019-01-03 18:39:06,151 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\IEDriverServer.exe
+2019-01-03 18:39:06,151 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\geckodriver.exe
+2019-01-03 18:39:06,151 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:39:06,151 INFO a.u.w.BrowserManager forceCache Found chromedriver in cache: D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe 
+2019-01-03 18:39:06,151 DEBUG a.u.w.BrowserManager manage Driver for [chromedriver] 2.43 found in cache D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:39:06,151 INFO a.u.w.BrowserManager exportDriver Exporting webdriver.chrome.driver as D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:39:27,216 WARN a.u.w.BrowserManager isNetAvailable Network not available. Forcing the use of cache
+2019-01-03 18:39:27,216 TRACE a.u.w.BrowserManager forceCache Checking if chromedriver exists in cache D:\automationBed_Google\src\test\resources\drivers\
+2019-01-03 18:39:27,216 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\IEDriverServer.exe
+2019-01-03 18:39:27,216 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\geckodriver.exe
+2019-01-03 18:39:27,216 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:39:27,216 INFO a.u.w.BrowserManager forceCache Found chromedriver in cache: D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe 
+2019-01-03 18:39:27,216 DEBUG a.u.w.BrowserManager manage Driver for [chromedriver] 2.43 found in cache D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:39:27,216 INFO a.u.w.BrowserManager exportDriver Exporting webdriver.chrome.driver as D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:39:48,264 WARN a.u.w.BrowserManager isNetAvailable Network not available. Forcing the use of cache
+2019-01-03 18:39:48,264 TRACE a.u.w.BrowserManager forceCache Checking if chromedriver exists in cache D:\automationBed_Google\src\test\resources\drivers\
+2019-01-03 18:39:48,264 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\IEDriverServer.exe
+2019-01-03 18:39:48,264 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\geckodriver.exe
+2019-01-03 18:39:48,264 TRACE a.u.w.BrowserManager forceCache Checking D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:39:48,264 INFO a.u.w.BrowserManager forceCache Found chromedriver in cache: D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe 
+2019-01-03 18:39:48,264 DEBUG a.u.w.BrowserManager manage Driver for [chromedriver] 2.43 found in cache D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe
+2019-01-03 18:39:48,264 INFO a.u.w.BrowserManager exportDriver Exporting webdriver.chrome.driver as D:\automationBed_Google\src\test\resources\drivers\chromedriver.exe

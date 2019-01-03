@@ -1,0 +1,151 @@
+2019-01-03 18:38:23,622 INFO a.u.b.DriverUtility [TestNG] setting chrome Driver(Architecture= 32, Version=2.43)
+2019-01-03 18:38:45,056 DEBUG a.u.R.AdvanceReporting [TestNG] setting path for report : InlineClick2Call\AdvanceReport_chrome_2019-01-03_183845.html
+2019-01-03 18:38:45,056 INFO a.u.b.Constant [TestNG] setting up SuiteName with : InlineClick2Call
+2019-01-03 18:38:45,056 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing report for : InlineClick2Call
+2019-01-03 18:38:45,119 INFO a.u.b.DriverUtility [TestNG] setting chrome Driver(Architecture= 32, Version=2.43)
+2019-01-03 18:39:06,151 DEBUG a.u.R.AdvanceReporting [TestNG] setting path for report : RefundRequestPerCall\AdvanceReport_chrome_2019-01-03_183906.html
+2019-01-03 18:39:06,151 INFO a.u.b.Constant [TestNG] setting up SuiteName with : RefundRequestPerCall
+2019-01-03 18:39:06,151 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing report for : RefundRequestPerCall
+2019-01-03 18:39:06,188 INFO a.u.b.DriverUtility [TestNG] setting chrome Driver(Architecture= 32, Version=2.43)
+2019-01-03 18:39:27,216 DEBUG a.u.R.AdvanceReporting [TestNG] setting path for report : Settings\AdvanceReport_chrome_2019-01-03_183927.html
+2019-01-03 18:39:27,216 INFO a.u.b.Constant [TestNG] setting up SuiteName with : Settings
+2019-01-03 18:39:27,216 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing report for : Settings
+2019-01-03 18:39:27,217 INFO a.u.b.DriverUtility [TestNG] setting chrome Driver(Architecture= 32, Version=2.43)
+2019-01-03 18:39:48,264 DEBUG a.u.R.AdvanceReporting [TestNG] setting path for report : i18nScreens\AdvanceReport_chrome_2019-01-03_183948.html
+2019-01-03 18:39:48,264 INFO a.u.b.Constant [TestNG] setting up SuiteName with : i18nScreens
+2019-01-03 18:39:48,264 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing report for : i18nScreens
+2019-01-03 18:39:48,281 DEBUG a.u.e.ExcelUtility [TestNG] retrieving data from : Settings
+2019-01-03 18:39:48,312 INFO a.u.b.Constant [TestNG] setting up TestCase with : Verify Correct Google Voice Number Is Displayed
+2019-01-03 18:39:48,327 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for Verify Correct Google Voice Number Is Displayed in report
+2019-01-03 18:39:48,327 INFO a.u.e.ExcelUtility [TestNG] flag N retrieved  for Verify Correct Google Voice Number Is Displayed
+2019-01-03 18:39:48,327 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : skip for : Verify Correct Google Voice Number Is Displayed
+2019-01-03 18:39:48,405 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:39:48,405 INFO a.u.b.Constant [TestNG] setting up TestCase with : VerifyChange Or Port Links To The Legacy Page For The Action
+2019-01-03 18:39:48,405 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for VerifyChange Or Port Links To The Legacy Page For The Action in report
+2019-01-03 18:39:48,405 INFO a.u.e.ExcelUtility [TestNG] flag N retrieved  for VerifyChange Or Port Links To The Legacy Page For The Action
+2019-01-03 18:39:48,405 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : skip for : VerifyChange Or Port Links To The Legacy Page For The Action
+2019-01-03 18:39:48,437 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:39:48,437 INFO a.u.b.Constant [TestNG] setting up TestCase with : Verify New Phone Can Be Added To Account
+2019-01-03 18:39:48,437 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for Verify New Phone Can Be Added To Account in report
+2019-01-03 18:39:48,437 INFO a.u.e.ExcelUtility [TestNG] flag N retrieved  for Verify New Phone Can Be Added To Account
+2019-01-03 18:39:48,437 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : skip for : Verify New Phone Can Be Added To Account
+2019-01-03 18:39:48,452 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:39:48,452 DEBUG a.u.e.ExcelUtility [TestNG] retrieving data from : RefundRequestPerCall
+2019-01-03 18:39:48,468 INFO a.u.b.Constant [TestNG] setting up TestCase with : Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu
+2019-01-03 18:39:48,468 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu in report
+2019-01-03 18:39:48,468 INFO a.u.e.ExcelUtility [TestNG] flag N retrieved  for Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu
+2019-01-03 18:39:48,468 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : skip for : Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu
+2019-01-03 18:39:48,483 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:39:48,483 INFO a.u.b.Constant [TestNG] setting up TestCase with : Verify That Clicking On The Three Dots Option Will Open Refund Request
+2019-01-03 18:39:48,483 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for Verify That Clicking On The Three Dots Option Will Open Refund Request in report
+2019-01-03 18:39:48,483 INFO a.u.e.ExcelUtility [TestNG] flag N retrieved  for Verify That Clicking On The Three Dots Option Will Open Refund Request
+2019-01-03 18:39:48,483 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : skip for : Verify That Clicking On The Three Dots Option Will Open Refund Request
+2019-01-03 18:39:48,515 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:39:48,515 DEBUG a.u.e.ExcelUtility [TestNG] retrieving data from : InlineClick2Call
+2019-01-03 18:39:48,515 INFO a.u.b.Constant [TestNG] setting up TestCase with : Ui Check For Click2Call
+2019-01-03 18:39:48,515 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for Ui Check For Click2Call in report
+2019-01-03 18:39:48,515 INFO a.u.e.ExcelUtility [TestNG] flag N retrieved  for Ui Check For Click2Call
+2019-01-03 18:39:48,515 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : skip for : Ui Check For Click2Call
+2019-01-03 18:39:48,530 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:39:48,546 INFO a.u.b.Constant [TestNG] setting up TestCase with : Ui Check For Click To Call For Wolverine Account
+2019-01-03 18:39:48,546 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for Ui Check For Click To Call For Wolverine Account in report
+2019-01-03 18:39:48,546 INFO a.u.e.ExcelUtility [TestNG] flag N retrieved  for Ui Check For Click To Call For Wolverine Account
+2019-01-03 18:39:48,546 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : skip for : Ui Check For Click To Call For Wolverine Account
+2019-01-03 18:39:48,561 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:39:48,561 DEBUG a.u.e.ExcelUtility [TestNG] retrieving data from : i18nScreens
+2019-01-03 18:39:48,561 INFO a.u.b.Constant [TestNG] setting up TestCase with : i18n Moya Home Screen
+2019-01-03 18:39:48,561 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for i18n Moya Home Screen in report
+2019-01-03 18:39:48,561 INFO a.u.e.ExcelUtility [TestNG] flag N retrieved  for i18n Moya Home Screen
+2019-01-03 18:39:48,561 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : skip for : i18n Moya Home Screen
+2019-01-03 18:39:48,577 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:39:48,577 INFO a.u.b.Constant [TestNG] setting up TestCase with : i18n Moya Calls Screen
+2019-01-03 18:39:48,577 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for i18n Moya Calls Screen in report
+2019-01-03 18:39:48,593 INFO a.u.e.ExcelUtility [TestNG] flag N retrieved  for i18n Moya Calls Screen
+2019-01-03 18:39:48,593 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : skip for : i18n Moya Calls Screen
+2019-01-03 18:39:48,608 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:39:48,608 INFO a.u.b.Constant [TestNG] setting up TestCase with : i18n Moya Settings Screen
+2019-01-03 18:39:48,608 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for i18n Moya Settings Screen in report
+2019-01-03 18:39:48,608 INFO a.u.e.ExcelUtility [TestNG] flag N retrieved  for i18n Moya Settings Screen
+2019-01-03 18:39:48,608 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : skip for : i18n Moya Settings Screen
+2019-01-03 18:39:48,624 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:39:48,639 INFO a.u.b.Constant [TestNG] setting up TestCase with : i18n Moya Voicemail Screen
+2019-01-03 18:39:48,639 DEBUG a.u.R.AdvanceReporting [TestNG] Initializing Testcase instance for i18n Moya Voicemail Screen in report
+2019-01-03 18:39:48,639 INFO a.u.e.ExcelUtility [TestNG] flag Y retrieved  for i18n Moya Voicemail Screen
+2019-01-03 18:39:48,639 INFO a.u.b.DriverUtility [TestNG] Instantaiting : chrome
+2019-01-03 18:39:48,639 INFO a.u.b.DriverUtility [TestNG] Adding ACCEPT_SSL_CERTS capapility to driver
+2019-01-03 18:39:52,956 INFO a.u.b.Constant [TestNG] setting up URL with : https://voice.google.com
+2019-01-03 18:39:54,445 INFO a.u.b.BaseUtility [TestNG] setting implicit wait
+2019-01-03 18:39:54,446 INFO a.u.b.BaseUtility [TestNG] setting Script timeout
+2019-01-03 18:39:54,478 INFO a.u.b.BaseUtility [TestNG] Opening URL : https://voice.google.com
+2019-01-03 18:39:59,498 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:39:59,498 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\SignIn Page_20190103_183959.png
+2019-01-03 18:39:59,786 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\SignIn Page_20190103_183959.png
+2019-01-03 18:40:02,970 DEBUG a.u.b.BaseUtility [TestNG]  : is clicked
+2019-01-03 18:40:03,033 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:03,034 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\logInID Page_20190103_184003.png
+2019-01-03 18:40:03,331 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\logInID Page_20190103_184003.png
+2019-01-03 18:40:03,398 DEBUG a.u.b.BaseUtility [TestNG] Element identifier is cleared
+2019-01-03 18:40:03,656 DEBUG a.u.b.BaseUtility [TestNG]  Text : tmtest12341@gmail.com is set to element : identifier.
+2019-01-03 18:40:03,656 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:03,656 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Email Id entered_20190103_184003.png
+2019-01-03 18:40:03,950 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Email Id entered_20190103_184003.png
+2019-01-03 18:40:04,200 DEBUG a.u.b.BaseUtility [TestNG] null : is clicked
+2019-01-03 18:40:05,207 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:05,208 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\logInPWD Page_20190103_184005.png
+2019-01-03 18:40:05,504 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\logInPWD Page_20190103_184005.png
+2019-01-03 18:40:05,582 DEBUG a.u.b.BaseUtility [TestNG] Element password is cleared
+2019-01-03 18:40:05,735 DEBUG a.u.b.BaseUtility [TestNG]  Text : TechM123$ is set to element : password.
+2019-01-03 18:40:05,735 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:05,735 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Password entered_20190103_184005.png
+2019-01-03 18:40:06,042 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Password entered_20190103_184005.png
+2019-01-03 18:40:06,273 DEBUG a.u.b.BaseUtility [TestNG] null : is clicked
+2019-01-03 18:40:15,848 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:15,849 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Moya Home Page_20190103_184015.png
+2019-01-03 18:40:16,134 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Moya Home Page_20190103_184015.png
+2019-01-03 18:40:16,375 DEBUG a.u.b.BaseUtility [TestNG] null : is clicked
+2019-01-03 18:40:16,375 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:16,375 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Clicked on Voice Mail Icon Button succesfully_20190103_184016.png
+2019-01-03 18:40:17,076 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Clicked on Voice Mail Icon Button succesfully_20190103_184016.png
+2019-01-03 18:40:19,932 DEBUG a.u.b.BaseUtility [TestNG] null : is clicked
+2019-01-03 18:40:19,932 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:19,932 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Clicked on First voice mail From List Button succesfully_20190103_184019.png
+2019-01-03 18:40:20,252 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Clicked on First voice mail From List Button succesfully_20190103_184019.png
+2019-01-03 18:40:20,320 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:20,320 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\voicemail Screen is Visiable_20190103_184020.png
+2019-01-03 18:40:20,576 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\voicemail Screen is Visiable_20190103_184020.png
+2019-01-03 18:40:22,680 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:22,681 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\MakeACallToolTip Is avalible successfully_20190103_184022.png
+2019-01-03 18:40:22,975 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\MakeACallToolTip Is avalible successfully_20190103_184022.png
+2019-01-03 18:40:25,064 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:25,064 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\MessageToolTip Is avalible successfully_20190103_184025.png
+2019-01-03 18:40:25,324 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\MessageToolTip Is avalible successfully_20190103_184025.png
+2019-01-03 18:40:27,414 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:27,415 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\MoreOptionsToolTip Is avalible successfully_20190103_184027.png
+2019-01-03 18:40:27,727 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\MoreOptionsToolTip Is avalible successfully_20190103_184027.png
+2019-01-03 18:40:27,812 DEBUG a.u.b.BaseUtility [TestNG] (425) 802-1871 : is Got text
+2019-01-03 18:40:27,812 DEBUG a.u.b.BaseUtility [TestNG] null : is Got text
+2019-01-03 18:40:27,897 DEBUG a.u.b.BaseUtility [TestNG] 9887bc374655364831
+(425) 802-1871 • mobile : is Got text
+2019-01-03 18:40:27,897 DEBUG a.u.b.BaseUtility [TestNG] null : is Got text
+2019-01-03 18:40:27,897 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:27,898 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Phone Number Is avalible successfully_20190103_184027.png
+2019-01-03 18:40:28,189 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Phone Number Is avalible successfully_20190103_184027.png
+2019-01-03 18:40:28,274 DEBUG a.u.b.BaseUtility [TestNG] Dec 29, 2018, 12:00 AM : is Got text
+2019-01-03 18:40:28,274 DEBUG a.u.b.BaseUtility [TestNG] null : is Got text
+2019-01-03 18:40:28,275 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:28,275 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Date is in Correct Format Is avalible successfully_20190103_184028.png
+2019-01-03 18:40:28,555 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Date is in Correct Format Is avalible successfully_20190103_184028.png
+2019-01-03 18:40:28,642 DEBUG a.u.b.BaseUtility [TestNG] Transcription not available : is Got text
+2019-01-03 18:40:28,642 DEBUG a.u.b.BaseUtility [TestNG] null : is Got text
+2019-01-03 18:40:28,729 DEBUG a.u.b.BaseUtility [TestNG] Transcription not available : is Got text
+2019-01-03 18:40:28,729 DEBUG a.u.b.BaseUtility [TestNG] null : is Got text
+2019-01-03 18:40:28,729 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot
+2019-01-03 18:40:28,729 DEBUG a.u.b.BaseUtility [TestNG] Taking snapShot at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Type is in Correct Format Is avalible successfully_20190103_184028.png
+2019-01-03 18:40:29,029 DEBUG a.u.b.BaseUtility [TestNG] SnapShot saved at : D:\automationBed_Google\test-output\AdvanceReports\i18nScreens\i18n Moya Voicemail Screen\Type is in Correct Format Is avalible successfully_20190103_184028.png
+2019-01-03 18:40:29,030 DEBUG a.u.e.ExcelUtility [TestNG] Updating result : pass for : i18n Moya Voicemail Screen
+2019-01-03 18:40:29,048 DEBUG a.u.b.BaseUtility [TestNG] closing driver instance : ChromeDriver
+2019-01-03 18:40:30,412 DEBUG a.u.R.AdvanceReporting [TestNG] Ending current Testcase instance in report
+2019-01-03 18:40:30,412 DEBUG a.u.R.AdvanceReporting [TestNG] Ending report for current Suite
+2019-01-03 18:40:30,616 DEBUG a.u.R.AdvanceReporting [TestNG] Ending report for current Suite
+2019-01-03 18:40:30,632 DEBUG a.u.R.AdvanceReporting [TestNG] Ending report for current Suite
+2019-01-03 18:40:30,663 DEBUG a.u.R.AdvanceReporting [TestNG] Ending report for current Suite

@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-GoogleTest">
+              <span class="suite-name border-passed">GoogleTest</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-GoogleTest">
+                    <span>D:\automationBed_Google\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-GoogleTest">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-GoogleTest">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-GoogleTest">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-GoogleTest">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-GoogleTest">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-GoogleTest">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">11 methods,   11 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-GoogleTest" class="hide-methods passed suite-GoogleTest"> (hide)</a> <!-- hide-methods passed suite-GoogleTest -->
+                      <a href="#" panel-name="suite-GoogleTest" class="show-methods passed suite-GoogleTest"> (show)</a> <!-- show-methods passed suite-GoogleTest -->
+                    </span>
+                    <div class="method-list-content passed suite-GoogleTest">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.Settings" hash-for-method="Googletesting(Verify Correct Google Voice Number Is Displayed, tmtest12341@gmail.com, TechM123$, 1)">Googletesting(Verify Correct Google Voice Number Is Displayed, tmtest12341@gmail.com, TechM123$, 1)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.RefundRequestPerCall" hash-for-method="Googletesting(Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu, tmtest12341@gm...)">Googletesting(Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu, tmtest12341@gm...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.RefundRequestPerCall" hash-for-method="Googletesting(Verify That Clicking On The Three Dots Option Will Open Refund Request, tmtest12341@gmail.com, TechM...)">Googletesting(Verify That Clicking On The Three Dots Option Will Open Refund Request, tmtest12341@gmail.com, TechM...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.InlineClick2Call" hash-for-method="Googletesting(Ui Check For Click2Call, tmtest12341@gmail.com, TechM123$, (425) 802-1871)">Googletesting(Ui Check For Click2Call, tmtest12341@gmail.com, TechM123$, (425) 802-1871)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.i18nScreens" hash-for-method="Googletesting(i18n Moya Home Screen, tmtest12341@gmail.com, TechM123$, 4258021871)">Googletesting(i18n Moya Home Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.i18nScreens" hash-for-method="Googletesting(i18n Moya Calls Screen, tmtest12341@gmail.com, TechM123$, 4258021871)">Googletesting(i18n Moya Calls Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.InlineClick2Call" hash-for-method="Googletesting(Ui Check For Click To Call For Wolverine Account, tmdtest1234@gmail.com, Ashok123$, (425) 802-1871)">Googletesting(Ui Check For Click To Call For Wolverine Account, tmdtest1234@gmail.com, Ashok123$, (425) 802-1871)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.i18nScreens" hash-for-method="Googletesting(i18n Moya Settings Screen, tmtest12341@gmail.com, TechM123$, 4258021871)">Googletesting(i18n Moya Settings Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.i18nScreens" hash-for-method="Googletesting(i18n Moya Voicemail Screen, tmtest12341@gmail.com, TechM123$, 4258021871)">Googletesting(i18n Moya Voicemail Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.Settings" hash-for-method="Googletesting(Verify New Phone Can Be Added To Account, tmdtest1234@gmail.com, Ashok123$, (425) 553-6505|(831) 246...)">Googletesting(Verify New Phone Can Be Added To Account, tmdtest1234@gmail.com, Ashok123$, (425) 553-6505|(831) 246...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-GoogleTest" title="automationBed_Google.GV.Settings" hash-for-method="Googletesting(VerifyChange Or Port Links To The Legacy Page For The Action, tmtest12341@gmail.com, TechM123$, 1)">Googletesting(VerifyChange Or Port Links To The Legacy Page For The Action, tmtest12341@gmail.com, TechM123$, 1)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-GoogleTest -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-GoogleTest" class="panel GoogleTest">
+          <div class="suite-GoogleTest-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">automationBed_Google.GV.i18nScreens</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(i18n Moya Home Screen, tmtest12341@gmail.com, TechM123$, 4258021871)">
+                  </a> <!-- Googletesting(i18n Moya Home Screen, tmtest12341@gmail.com, TechM123$, 4258021871) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(i18n Moya Home Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(i18n Moya Calls Screen, tmtest12341@gmail.com, TechM123$, 4258021871)">
+                  </a> <!-- Googletesting(i18n Moya Calls Screen, tmtest12341@gmail.com, TechM123$, 4258021871) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(i18n Moya Calls Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(i18n Moya Settings Screen, tmtest12341@gmail.com, TechM123$, 4258021871)">
+                  </a> <!-- Googletesting(i18n Moya Settings Screen, tmtest12341@gmail.com, TechM123$, 4258021871) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(i18n Moya Settings Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(i18n Moya Voicemail Screen, tmtest12341@gmail.com, TechM123$, 4258021871)">
+                  </a> <!-- Googletesting(i18n Moya Voicemail Screen, tmtest12341@gmail.com, TechM123$, 4258021871) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(i18n Moya Voicemail Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-GoogleTest-class-passed -->
+          <div class="suite-GoogleTest-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">automationBed_Google.GV.RefundRequestPerCall</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu, tmtest12341@gm...)">
+                  </a> <!-- Googletesting(Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu, tmtest12341@gm...) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu, tmtest12341@gmail.com, TechM123$, 1)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(Verify That Clicking On The Three Dots Option Will Open Refund Request, tmtest12341@gmail.com, TechM...)">
+                  </a> <!-- Googletesting(Verify That Clicking On The Three Dots Option Will Open Refund Request, tmtest12341@gmail.com, TechM...) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(Verify That Clicking On The Three Dots Option Will Open Refund Request, tmtest12341@gmail.com, TechM123$, 1)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-GoogleTest-class-passed -->
+          <div class="suite-GoogleTest-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">automationBed_Google.GV.InlineClick2Call</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(Ui Check For Click2Call, tmtest12341@gmail.com, TechM123$, (425) 802-1871)">
+                  </a> <!-- Googletesting(Ui Check For Click2Call, tmtest12341@gmail.com, TechM123$, (425) 802-1871) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(Ui Check For Click2Call, tmtest12341@gmail.com, TechM123$, (425) 802-1871)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(Ui Check For Click To Call For Wolverine Account, tmdtest1234@gmail.com, Ashok123$, (425) 802-1871)">
+                  </a> <!-- Googletesting(Ui Check For Click To Call For Wolverine Account, tmdtest1234@gmail.com, Ashok123$, (425) 802-1871) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(Ui Check For Click To Call For Wolverine Account, tmdtest1234@gmail.com, Ashok123$, (425) 802-1871)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-GoogleTest-class-passed -->
+          <div class="suite-GoogleTest-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">automationBed_Google.GV.Settings</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(Verify Correct Google Voice Number Is Displayed, tmtest12341@gmail.com, TechM123$, 1)">
+                  </a> <!-- Googletesting(Verify Correct Google Voice Number Is Displayed, tmtest12341@gmail.com, TechM123$, 1) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(Verify Correct Google Voice Number Is Displayed, tmtest12341@gmail.com, TechM123$, 1)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(Verify New Phone Can Be Added To Account, tmdtest1234@gmail.com, Ashok123$, (425) 553-6505|(831) 246...)">
+                  </a> <!-- Googletesting(Verify New Phone Can Be Added To Account, tmdtest1234@gmail.com, Ashok123$, (425) 553-6505|(831) 246...) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(Verify New Phone Can Be Added To Account, tmdtest1234@gmail.com, Ashok123$, (425) 553-6505|(831) 246-6596|(650) 864-2963|(312) 623-0178)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Googletesting(VerifyChange Or Port Links To The Legacy Page For The Action, tmtest12341@gmail.com, TechM123$, 1)">
+                  </a> <!-- Googletesting(VerifyChange Or Port Links To The Legacy Page For The Action, tmtest12341@gmail.com, TechM123$, 1) -->
+                  <span class="method-name">Googletesting</span>
+                  <span class="parameters">(VerifyChange Or Port Links To The Legacy Page For The Action, tmtest12341@gmail.com, TechM123$, 1)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-GoogleTest-class-passed -->
+        </div> <!-- panel GoogleTest -->
+        <div panel-name="test-xml-GoogleTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">D:\automationBed_Google\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;1&quot; guice-stage=&quot;DEVELOPMENT&quot; name=&quot;GoogleTest&quot; parallel=&quot;tests&quot;&gt;
+  &lt;test name=&quot;ChromeTest&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;automationBed_Google.GV.Settings&quot;/&gt;
+      &lt;class name=&quot;automationBed_Google.GV.RefundRequestPerCall&quot;/&gt;
+      &lt;class name=&quot;automationBed_Google.GV.InlineClick2Call&quot;/&gt;
+      &lt;class name=&quot;automationBed_Google.GV.i18nScreens&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- ChromeTest --&gt;
+&lt;/suite&gt; &lt;!-- GoogleTest --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-GoogleTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for GoogleTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">ChromeTest (4 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-GoogleTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for GoogleTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-GoogleTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for GoogleTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_GoogleTest');
+function tableData_GoogleTest() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(11);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'Googletesting')
+data.setCell(0, 2, 'automationBed_Google.GV.i18nScreens')
+data.setCell(0, 3, 41773);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'Googletesting')
+data.setCell(1, 2, 'automationBed_Google.GV.Settings')
+data.setCell(1, 3, 93);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'Googletesting')
+data.setCell(2, 2, 'automationBed_Google.GV.RefundRequestPerCall')
+data.setCell(2, 3, 32);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'Googletesting')
+data.setCell(3, 2, 'automationBed_Google.GV.Settings')
+data.setCell(3, 3, 32);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'Googletesting')
+data.setCell(4, 2, 'automationBed_Google.GV.i18nScreens')
+data.setCell(4, 3, 31);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'Googletesting')
+data.setCell(5, 2, 'automationBed_Google.GV.InlineClick2Call')
+data.setCell(5, 3, 31);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'Googletesting')
+data.setCell(6, 2, 'automationBed_Google.GV.i18nScreens')
+data.setCell(6, 3, 31);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'Googletesting')
+data.setCell(7, 2, 'automationBed_Google.GV.i18nScreens')
+data.setCell(7, 3, 16);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'Googletesting')
+data.setCell(8, 2, 'automationBed_Google.GV.RefundRequestPerCall')
+data.setCell(8, 3, 15);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'Googletesting')
+data.setCell(9, 2, 'automationBed_Google.GV.InlineClick2Call')
+data.setCell(9, 3, 15);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'Googletesting')
+data.setCell(10, 2, 'automationBed_Google.GV.Settings')
+data.setCell(10, 3, 15);
+window.suiteTableData['GoogleTest']= { tableData: data, tableDiv: 'times-div-GoogleTest'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 42 seconds</span>
+              <div id="times-div-GoogleTest">
+              </div> <!-- times-div-GoogleTest -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-GoogleTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for GoogleTest</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-GoogleTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">6 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">automationBed_Google.GV.i18nScreens</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">beforeSuite</span>
+                <br/>
+                <span class="ignored-method-name">afterSuite</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">automationBed_Google.GV.RefundRequestPerCall</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">beforeSuite</span>
+                <br/>
+                <span class="ignored-method-name">afterSuite</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">automationBed_Google.GV.InlineClick2Call</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">beforeSuite</span>
+                <br/>
+                <span class="ignored-method-name">afterSuite</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-GoogleTest" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.Settings</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">beforeSuite</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.InlineClick2Call</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest(chrome)</span>
+                <span class="method-start">729 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.RefundRequestPerCall</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest(chrome)</span>
+                <span class="method-start">22269 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.Settings</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest(chrome)</span>
+                <span class="method-start">43338 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.i18nScreens</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">beforeTest(chrome)</span>
+                <span class="method-start">64367 ms</span>
+              </div> <!-- configuration-test before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.Settings</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(Verify Correct Google Voice Number Is Displayed, tmtest12341@gmail.com, TechM123$, 1)</span>
+                <span class="method-start">85462 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(VerifyChange Or Port Links To The Legacy Page For The Action, tmtest12341@gmail.com, TechM123$, 1)</span>
+                <span class="method-start">85555 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(Verify New Phone Can Be Added To Account, tmdtest1234@gmail.com, Ashok123$, (425) 553-6505|(831) 246...)</span>
+                <span class="method-start">85587 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.RefundRequestPerCall</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu, tmtest12341@gm...)</span>
+                <span class="method-start">85618 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(Verify That Clicking On The Three Dots Option Will Open Refund Request, tmtest12341@gmail.com, TechM...)</span>
+                <span class="method-start">85633 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.InlineClick2Call</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(Ui Check For Click2Call, tmtest12341@gmail.com, TechM123$, (425) 802-1871)</span>
+                <span class="method-start">85665 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(Ui Check For Click To Call For Wolverine Account, tmdtest1234@gmail.com, Ashok123$, (425) 802-1871)</span>
+                <span class="method-start">85680 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.i18nScreens</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(i18n Moya Home Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</span>
+                <span class="method-start">85711 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(i18n Moya Calls Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</span>
+                <span class="method-start">85727 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(i18n Moya Settings Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</span>
+                <span class="method-start">85758 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">Googletesting(i18n Moya Voicemail Screen, tmtest12341@gmail.com, TechM123$, 4258021871)</span>
+                <span class="method-start">85789 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.InlineClick2Call</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">127562 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.RefundRequestPerCall</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">127766 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.Settings</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">127782 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.i18nScreens</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">afterTest</span>
+                <span class="method-start">127813 ms</span>
+              </div> <!-- configuration-test after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">automationBed_Google.GV.Settings</div> <!-- chronological-class-name -->
+              <div class="configuration-suite after">
+                <span class="method-name">afterSuite</span>
+                <span class="method-start">127844 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

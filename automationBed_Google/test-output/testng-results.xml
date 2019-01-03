@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GoogleTest" duration-ms="127101" started-at="2019-01-03T13:08:23Z" finished-at="2019-01-03T13:10:30Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="127101" started-at="2019-01-03T13:08:23Z" finished-at="2019-01-03T13:10:30Z">
+      <class name="automationBed_Google.GV.Settings">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:automationBed_Google.GV.Settings@72d818d1]" name="beforeSuite" is-config="true" duration-ms="726" started-at="2019-01-03T18:38:22Z" finished-at="2019-01-03T18:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.Settings@72d818d1]" name="Googletesting" duration-ms="93" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Verify Correct Google Voice Number Is Displayed]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmtest12341@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TechM123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.Settings@72d818d1]" name="Googletesting" duration-ms="32" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[VerifyChange Or Port Links To The Legacy Page For The Action]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmtest12341@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TechM123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.Settings@72d818d1]" name="Googletesting" duration-ms="15" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Verify New Phone Can Be Added To Account]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmdtest1234@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ashok123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[(425) 553-6505|(831) 246-6596|(650) 864-2963|(312) 623-0178]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:automationBed_Google.GV.Settings@72d818d1]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-01-03T18:40:30Z" finished-at="2019-01-03T18:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- automationBed_Google.GV.Settings -->
+      <class name="automationBed_Google.GV.RefundRequestPerCall">
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.RefundRequestPerCall@6e06451e]" name="Googletesting" duration-ms="15" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Verify That Hovering Over The Billing History Log Will Highlight The Three Dots Menu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmtest12341@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TechM123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.RefundRequestPerCall@6e06451e]" name="Googletesting" duration-ms="32" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Verify That Clicking On The Three Dots Option Will Open Refund Request]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmtest12341@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TechM123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+      </class> <!-- automationBed_Google.GV.RefundRequestPerCall -->
+      <class name="automationBed_Google.GV.InlineClick2Call">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:automationBed_Google.GV.InlineClick2Call@59494225]" name="beforeTest" is-config="true" duration-ms="21540" started-at="2019-01-03T18:38:23Z" finished-at="2019-01-03T18:38:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:automationBed_Google.GV.RefundRequestPerCall@6e06451e]" name="beforeTest" is-config="true" duration-ms="21069" started-at="2019-01-03T18:38:45Z" finished-at="2019-01-03T18:39:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:automationBed_Google.GV.Settings@72d818d1]" name="beforeTest" is-config="true" duration-ms="21029" started-at="2019-01-03T18:39:06Z" finished-at="2019-01-03T18:39:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:automationBed_Google.GV.i18nScreens@6e1567f1]" name="beforeTest" is-config="true" duration-ms="21063" started-at="2019-01-03T18:39:27Z" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.InlineClick2Call@59494225]" name="Googletesting" duration-ms="15" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ui Check For Click2Call]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmtest12341@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TechM123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[(425) 802-1871]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.InlineClick2Call@59494225]" name="Googletesting" duration-ms="31" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ui Check For Click To Call For Wolverine Account]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmdtest1234@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ashok123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[(425) 802-1871]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:automationBed_Google.GV.InlineClick2Call@59494225]" name="afterTest" is-config="true" duration-ms="204" started-at="2019-01-03T18:40:30Z" finished-at="2019-01-03T18:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:automationBed_Google.GV.RefundRequestPerCall@6e06451e]" name="afterTest" is-config="true" duration-ms="16" started-at="2019-01-03T18:40:30Z" finished-at="2019-01-03T18:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:automationBed_Google.GV.Settings@72d818d1]" name="afterTest" is-config="true" duration-ms="31" started-at="2019-01-03T18:40:30Z" finished-at="2019-01-03T18:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:automationBed_Google.GV.i18nScreens@6e1567f1]" name="afterTest" is-config="true" duration-ms="16" started-at="2019-01-03T18:40:30Z" finished-at="2019-01-03T18:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- automationBed_Google.GV.InlineClick2Call -->
+      <class name="automationBed_Google.GV.i18nScreens">
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.i18nScreens@6e1567f1]" name="Googletesting" duration-ms="16" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[i18n Moya Home Screen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmtest12341@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TechM123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4258021871]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.i18nScreens@6e1567f1]" name="Googletesting" duration-ms="31" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[i18n Moya Calls Screen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmtest12341@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TechM123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4258021871]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.i18nScreens@6e1567f1]" name="Googletesting" duration-ms="31" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:39:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[i18n Moya Settings Screen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmtest12341@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TechM123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4258021871]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+        <test-method status="PASS" signature="Googletesting(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:automationBed_Google.GV.i18nScreens@6e1567f1]" name="Googletesting" duration-ms="41773" started-at="2019-01-03T18:39:48Z" data-provider="GoogledataProvider" finished-at="2019-01-03T18:40:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[i18n Moya Voicemail Screen]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tmtest12341@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TechM123$]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4258021871]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googletesting -->
+      </class> <!-- automationBed_Google.GV.i18nScreens -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- GoogleTest -->
+</testng-results>
